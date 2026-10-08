@@ -16,11 +16,11 @@ Currently building hands-on expertise in Python, SQL, data analytics, AI/RAG sys
 
 ### 💼 Professional Background
 
-- 18+ years in technology and telecommunications
-- Huawei and Nokia
-- Technology project delivery and service delivery
+- 18+ years delivering technology solutions in telecommunications
+- Experience with global technology companies including **Huawei and Nokia**
+- Technology project and service delivery across APAC
 - RFP solutioning and customer-facing technical coordination
-- Operational reporting across APAC
+- Operational reporting, performance analysis and stakeholder engagement
 
 ### 📫 Connect
 
