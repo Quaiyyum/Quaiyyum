@@ -1,6 +1,8 @@
 ### Hi, I'm Saleh 👋
 
-Master of Information Technology student at the University of Waikato, New Zealand, building Python, SQL and data/AI skills. Before this, 18+ years in telecom with Huawei and Nokia — service delivery, RFP solutioning and operational reporting across APAC.
+I bring 18+ years of technology and telecom experience with Huawei and Nokia, including technology project delivery, service delivery, RFP solutioning, customer-facing technical coordination and operational reporting across APAC.
+
+Currently building hands-on expertise in Python, SQL, data analytics, AI/RAG systems and Power BI, while developing practical projects that combine software engineering with real-world business problems.
 
 **Featured project:** [business-rules-assistant](https://github.com/Quaiyyum/business-rules-assistant) — a RAG assistant over NZ vehicle regulations, with version-controlled YAML rules, local embeddings, cited answers, a staff-correction loop and an evaluation harness.
 
